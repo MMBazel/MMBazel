@@ -30,3 +30,8 @@ I'm on a personal mission to advance human progress & socioeconomic equality usi
 * Selected Speaker: Lesbian's Who Tech - (Not IRL) Pride Summit - Workshop Speaker (June 2020)
 * Selected Competitor: MIT COVID Datathon Team Finalist (May 2020)
 * Competitor: WiDs GOSSIS Kaggle Competition: Top 8% of 800+ teams (Mar 2020)
+
+### 💬 Want to connect? 📫
+* LinkedIn: https://www.linkedin.com/in/mikikobazeley/
+* Angellist: https://angel.co/u/mikiko-bazeley
+
