@@ -25,10 +25,10 @@ I'm on a personal mission to __advance humanity & combat inequality__ using ML, 
 *  __Writer__ for "The Renaissance Data Scientist" to support open data science (https://bit.ly/2UEA3Zm) & __consultant__ for start-ups building ML driven products.
 
 ### ✏️ Honors 🏆
-* Scholarship: Grace Hopper 2020 Conference Bootcamp Scholar (June 2020)
-* Selected Speaker: Lesbian's Who Tech - (Not IRL) Pride Summit - Workshop Speaker (June 2020)
-* Selected Competitor: MIT COVID Datathon Team Finalist (May 2020)
-* Competitor: WiDs GOSSIS Kaggle Competition: Top 8% of 800+ teams (Mar 2020)
+* __Scholarship__: Grace Hopper 2020 Conference Bootcamp Scholar (June 2020)
+* __Selected Speaker__: Lesbian's Who Tech - (Not IRL) Pride Summit - Workshop Speaker (June 2020)
+* __Selected Competitor__: MIT COVID Datathon Team Finalist (May 2020)
+* __Competitor__: WiDs GOSSIS Kaggle Competition: Top 8% of 800+ teams (Mar 2020)
 
 ### 💬 Want to connect? 📫
 * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
