@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there, my name is Mikiko & I'm a Senior ML Scientist based in SF! 👩🏻‍💻
-I'm on a personal mission to advance human progress & socioeconomic equality using ML, computer vision, deep learning, NLP, & geospatial analysis.
+I'm on a personal mission to advance humanity & combat inequality using ML, computer vision, deep learning, NLP, & geospatial analysis.
 
 
 ### 🚀🤖 The Dream 🤖✈️
