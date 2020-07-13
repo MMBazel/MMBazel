@@ -24,7 +24,6 @@ I'm on a personal mission to advance humanity & combat inequality using ML, comp
 *  Data science mentor (@Data Science Dream Job, @Springboard, etc.) with passion for speaking at conferences & workshops, especially career panels (@General Assembly, @Lesbians Who Tech Pride Summit, etc).
 *  Writer for "The Renaissance Data Scientist" to support open data science (https://bit.ly/2UEA3Zm) & consultant for start-ups building ML driven products.
 
-
 ### ✏️ Honors 🏆
 * Scholarship: Grace Hopper 2020 Conference Bootcamp Scholar (June 2020)
 * Selected Speaker: Lesbian's Who Tech - (Not IRL) Pride Summit - Workshop Speaker (June 2020)
@@ -35,3 +34,6 @@ I'm on a personal mission to advance humanity & combat inequality using ML, comp
 * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
 * Angellist: https://angel.co/u/mikiko-bazeley
 
+### ✨ Want to hire for a role or project? ✨
+* Resume (pdf): https://bit.ly/302wgHP
+* Resume (word): https://bit.ly/3gKGNOG
