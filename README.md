@@ -35,5 +35,5 @@ I'm on a personal mission to __advance humanity & combat inequality__ using ML, 
 * Angellist: https://angel.co/u/mikiko-bazeley
 
 ### ✨ Want to hire for a role or project? ✨
-* Resume (pdf): https://bit.ly/302wgHP
-* Resume (word): https://bit.ly/3gKGNOG
+* Resume (pdf): https://bit.ly/38X16FY
+* Resume (word): https://bit.ly/3exM62q
