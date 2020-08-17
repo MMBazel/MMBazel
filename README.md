@@ -17,7 +17,7 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 
 
 ### 🚀🤖 The Dream 🤖✈️
-* Help manifest __flying cars__, __human-enabled flight__, __altruistic drone networks__ & __self-organizing transportation & supply chains__ *(Autobots meets Marvel's Falcon meets space opera meets AI for Good).* 
+* Help manifest __flying cars__, __human-enabled flight__, __altruistic drone networks__ & __self-organizing transportation & supply chains__.
 
 ### 🎙️ Activities 👯 
 *  __IC with 5+ years__ shipping solutions for business teams around forecasting, optimization, & prediction.
