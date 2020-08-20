@@ -35,6 +35,6 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 * Angellist: https://angel.co/u/mikiko-bazeley
 
 ### ✨ Want to hire for a role or project? ✨
-* Resume (pdf): https://bit.ly/38X16FY
-* Resume (word): https://bit.ly/3exM62q
+* Resume (pdf): https://bit.ly/2Qb17NV
+* Resume (word): https://bit.ly/31gwVag
 * ☕ Or consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
