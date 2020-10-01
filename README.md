@@ -18,11 +18,11 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 ### 🚀🤖 The Dream 🤖✈️
 * Help manifest __flying cars__, __human-enabled flight__, __altruistic drone networks__ & __self-organizing transportation & supply chains__.
 
-### ✏️ Honors 🏆
-* __Scholarship__: Grace Hopper 2020 Conference Bootcamp Scholar (June 2020)
-* __Selected Speaker__: Lesbian's Who Tech - (Not IRL) Pride Summit - Workshop Speaker (June 2020)
-* __Selected Competitor__: MIT COVID Datathon Team Finalist (May 2020)
-* __Competitor__: WiDs GOSSIS Kaggle Competition: Top 8% of 800+ teams (Mar 2020)
+### 🔭  Activities 🌱 
+* IC with 5+ years shipping solutions for business teams around forecasting, optimization, & prediction.
+* __Data science mentor__ (@Data Science Dream Job, @Springboard, etc.) with passion for __speaking at conferences & workshops, especially career panels__ (@General Assembly, @Lesbians Who Tech Pride Summit, etc).
+* __Writer__ for "The Renaissance Data Scientist" to __support open data science__ (https://bit.ly/2UEA3Zm) & __consultant__ for start-ups building ML driven products.
+
 
 ### 💬 Want to connect? 📫
 * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
