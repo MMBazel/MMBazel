@@ -12,17 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, my name is Mikiko & I'm a Senior ML Scientist based in SF! 👩🏻‍💻
+## Hi there, my name is Mikiko & I'm a Machine Learning Engineer based in SF! 👩🏻‍💻
 I'm on a personal mission to __bring on the purpose-driven AI future we need__ using ML, computer vision, deep learning, NLP, & geospatial analysis.
-
 
 ### 🚀🤖 The Dream 🤖✈️
 * Help manifest __flying cars__, __human-enabled flight__, __altruistic drone networks__ & __self-organizing transportation & supply chains__.
-
-### 🎙️ Activities 👯 
-*  __IC with 5+ years__ shipping solutions for business teams around forecasting, optimization, & prediction.
-*  __Data science mentor__ (@Data Science Dream Job, @Springboard, etc.) with passion for speaking at conferences & workshops, especially career panels (@General Assembly, @Lesbians Who Tech Pride Summit, etc).
-*  __Writer__ for "The Renaissance Data Scientist" to support open data science (https://bit.ly/2UEA3Zm) & __consultant__ for start-ups building ML driven products.
 
 ### ✏️ Honors 🏆
 * __Scholarship__: Grace Hopper 2020 Conference Bootcamp Scholar (June 2020)
