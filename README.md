@@ -32,3 +32,5 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 * Resume (pdf): https://bit.ly/2Qb17NV
 * Resume (word): https://bit.ly/31gwVag
 * ☕ Or consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
+
+![](images/table 1-1.png?raw=true).
