@@ -33,4 +33,4 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 * Resume (word): https://bit.ly/31gwVag
 * ☕ Or consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
 
-![](10454984_1466723740241857_1207245537699788407_o.jpg?raw=true).
+![](10454984_1466723740241857_1207245537699788407_o.jpg?raw=true)
