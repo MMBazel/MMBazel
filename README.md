@@ -25,9 +25,9 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 
 
 ### 💬 Want to connect? 📫
-* LinkedIn: (https://www.linkedin.com/in/mikikobazeley/)
-* Twitter: (https://twitter.com/MikikoBazeley)
-* Medium: (https://mmbazel.medium.com/)
+* LinkedIn: https://www.linkedin.com/in/mikikobazeley/
+* Twitter: https://twitter.com/MikikoBazeley
+* Medium: https://mmbazel.medium.com/
 
 ### ✨ Want to hire for a role or project? ✨
 * Resume (pdf): https://bit.ly/2Qb17NV
