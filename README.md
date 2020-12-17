@@ -25,7 +25,7 @@ I'm on a personal mission to __bring on the purpose-driven AI future we need__ u
 
 
 ### 💬 Want to connect? 📫
-* [](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/mikikobazeley/
+* ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/mikikobazeley/
 * Angellist: https://angel.co/u/mikiko-bazeley
 
 ### ✨ Want to hire for a role or project? ✨
