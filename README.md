@@ -3,35 +3,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-## Hi there, my name is Mikiko & I'm a Machine Learning Engineer based in SF! 👩🏻‍💻
-I'm on a personal mission to __bring on the purpose-driven AI future we need__ using ML, computer vision, deep learning, NLP, & geospatial analysis.
 
-### 🚀🤖 The Dream 🤖✈️
-* Help manifest __flying cars__, __human-enabled flight__, __altruistic drone networks__ & __self-organizing transportation & supply chains__.
+## Hi there, my name is Mikiko & I'm Head of Data Science & Machine Learning for Sidewalk.ai! 
 
-### 🔭  Activities 🌱 
-* IC with 5+ years shipping solutions for business teams around forecasting, optimization, & prediction.
-* __Data science mentor__ (@Data Science Dream Job, @Springboard, etc.) with passion for __speaking at conferences & workshops, especially career panels__ (@General Assembly, @Lesbians Who Tech Pride Summit, etc).
-* __Writer__ for "The Renaissance Data Scientist" to __support open data science__ (https://bit.ly/2UEA3Zm) & __consultant__ for start-ups building ML driven products.
+- 🔭 I’m currently working on building mission-critical enablement tools for the real estate industry. 👩🏻‍💻
 
+Prior to Sidewalk.ai I was with Livongo (acquired by Teladoc), WalkMe, Autodesk, and Sunrun. I've also mentored aspiring data practitioners through bootcamps like Springboard & Data Science Dream Job, as well as spoken at a number of conferences & career panels on breaking into data science as a queer asian woman in tech. 
 
-### 💬 Want to connect? 📫
+- 🌱 In my free time I love lifting weights, designing micro-capsule collections for fashion, traveling the world through my taste buds and cookbook collection, and diving into the nuts of bolts of areas like nutrition, motorcycles, painting & music.
+
+- 🤔  My current interests include: Helping manifest flying cars, human-enabled flight, altruistic drone networks & self-organizing transportation & supply chains; Embarking on personal mission every day to bring on the purpose-driven AI future we need using ML, computer vision, deep learning, NLP, & geospatial analysis 🚀 🤖
+
+- 📫 How to reach me 💬 :
 * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
 * Twitter: https://twitter.com/MikikoBazeley
 * Medium: https://mmbazel.medium.com/
 
-### ✨ Want to hire for a role or project? ✨
-* Resume (pdf): https://bit.ly/2Qb17NV
-* Resume (word): https://bit.ly/31gwVag
-* ☕ Or consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
+### ✨ Like what I'm brewing? ✨
+☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
+
+
+"Don't let them tame you" - Isadora Duncan
+
+
 
 ![](10454984_1466723740241857_1207245537699788407_o.jpg?raw=true)
