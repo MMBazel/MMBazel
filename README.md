@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 
 Prior to Sidewalk.ai I was with Livongo (acquired by Teladoc), WalkMe, Autodesk, and Sunrun. I've also mentored aspiring data practitioners through bootcamps like Springboard & Data Science Dream Job, as well as spoken at a number of conferences & career panels on breaking into data science as a queer asian woman in tech. 
 
-- 🌱 In my free time I love lifting weights, designing micro-capsule collections for fashion, traveling the world through my taste buds and cookbook collection, and diving into the nuts of bolts of areas like nutrition, motorcycles, painting & music.
+- 🌱 In my free time I love: 
+* lifting weights  
+* designing micro-capsule collections for fashion 
+* traveling the world through my taste buds and cookbook collection 
+* diving into the nuts of bolts of areas like nutrition, motorcycles, painting & music
 
 - 🤔  My current interests include: Helping manifest flying cars, human-enabled flight, altruistic drone networks & self-organizing transportation & supply chains; Embarking on personal mission every day to bring on the purpose-driven AI future we need using ML, computer vision, deep learning, NLP, & geospatial analysis 🚀 🤖
 
