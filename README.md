@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🤔  My current interests include: Helping manifest flying cars, human-enabled flight, altruistic drone networks & self-organizing transportation & supply chains; Embarking on personal mission every day to bring on the purpose-driven AI future we need using ML, computer vision, deep learning, NLP, & geospatial analysis 🚀 🤖
 
 - 📫 How to reach me 💬 :
-* LinkedIn: https://www.linkedin.com/in/mikikobazeley/
-* Twitter: https://twitter.com/MikikoBazeley
-* Medium: https://mmbazel.medium.com/
+ * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
+ * Twitter: https://twitter.com/MikikoBazeley
+ * Medium: https://mmbazel.medium.com/
 
 ### ✨ Like what I'm brewing? ✨
 ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
