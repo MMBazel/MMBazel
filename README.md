@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   * Medium: https://mmbazel.medium.com/
 
 ✨ Like what I'm brewing? ✨
-☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
+  * ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
 
 
 "Don't let them tame you" - Isadora Duncan
