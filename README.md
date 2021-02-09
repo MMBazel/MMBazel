@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Hi there, my name is Mikiko & I'm Head of Data Science & Machine Learning for Sidewalk.ai! 
+## Hi there, my name is Mikiko & I'm working on Data Science & Machine Learning for Sidewalk.ai! 
 
 🔭 I’m currently working on building mission-critical enablement tools for the real estate industry. 👩🏻‍💻
 
