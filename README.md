@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 
 ### 🌱 In my free time I love 🎨
-  * lifting weights  
-  * designing micro-capsule collections for fashion 
-  * traveling the world through my taste buds and cookbook collection 
-  * diving into the nuts of bolts of areas like nutrition, motorcycles, painting & music
+  * lifting weights 🏋️‍♀️   
+  * designing clothes 👗
+  * traveling the world from my kitchen 👩🏻‍🍳
+  * painting, motorcycles, & dancing 💃 
 
 ### 🤔  I'm currently thinking about 💡
   * How to solve cold start problems in real estate, deal with long user life cycles, & detangle historic bias from recommendations (Sidewalk.ai)
