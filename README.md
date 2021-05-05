@@ -5,10 +5,10 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi there, my name is Miki & I'm an ML Engineer at Sidewalk.ai! 🏘️ 
+# Hi there, my name is Miki & I'm an ML Engineer! 👩🏻‍💻 
 
-### 🔭 I’m currently working on 👩🏻‍💻 
-  * building mission-critical enablement tools for the real estate industry. 
+### 🔭 I’m currently working on ☝🏻 
+  * 🤫 
 
 
 ### 🌱 In my free time I love 🎨
