@@ -21,10 +21,8 @@ Here are some ideas to get you started:
   * painting, motorcycles, & dancing 💃 
 
 ### 🤔  I'm currently thinking about 💡
-  * How to solve cold start problems in real estate, deal with long user life cycles, & detangle historic bias from recommendations (Sidewalk.ai)
-  * Best ways to deep learning & computer vision in visual recommendation (Springboard - ML Engineering)
   * How companies develop & run world-class ML systems (Full Stack Deep Learning)
-  * How to develop robust production level pipelines using AWS, Docker, Kubernetes, Kubeflow, MLFlow
+  * How to develop robust production level pipelines using GCP, AWS, Docker, Kubernetes, Kubeflow, MLFlow
   * How to keep growing as an effective engineer in Python, Java, C++, Scala
 
 ### 📫 How to reach me 💬 
