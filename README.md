@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 # Hi there, my name is Miki & I'm an ML Engineer! 👩🏻‍💻 
 
 ### 🔭 I’m currently working on ☝🏻 
-  * Currently helping the Machine Learning Engineering team at Mailchimp 🐒 build tools, infrastructure, & applications that: 
+  * Building tools, infrastructure, & applications for the Machine Learning Engineering team at Mailchimp 🐒 that: 
      * 🙉    enable our data scientists to develop cool features
      * 🙈    empower Mailchimp customers to understand and utilize their data
      * 🙊    support the MLE team in efficient & scalable deployment, integration, monitoring, & testing. 
