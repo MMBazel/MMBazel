@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ☝🏻 
   * Currently helping the Machine Learning Engineering team at Mailchimp 🐒 build tools, infrastructure, & applications that: 
-🙉    enable our data scientists to develop cool features
-🙈    empower Mailchimp customers to understand and utilize their data
-🙊    support the MLE team in efficient & scalable deployment, integration, monitoring, & testing. 
+* 🙉    enable our data scientists to develop cool features
+* 🙈    empower Mailchimp customers to understand and utilize their data
+* 🙊    support the MLE team in efficient & scalable deployment, integration, monitoring, & testing. 
 
 
 ### 🌱 In my free time I love 🎨
