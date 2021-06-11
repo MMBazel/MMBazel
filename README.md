@@ -36,6 +36,3 @@ Here are some ideas to get you started:
 
 "Don't let them tame you" - Isadora Duncan
 
-
-
-![](10454984_1466723740241857_1207245537699788407_o.jpg?raw=true)
