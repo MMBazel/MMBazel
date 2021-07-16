@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   * How to keep growing as an effective engineer in Python, Java, C++, Scala
 
 ### 📫 How to reach me 💬 
-  * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
+  * ~~LinkedIn: https://www.linkedin.com/in/mikikobazeley/~~ This is hibernated at various intervals
   * Medium: https://mmbazel.medium.com/
   * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated
 
