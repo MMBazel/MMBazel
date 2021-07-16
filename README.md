@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me 💬 
   * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
-  ~ * Twitter: https://twitter.com/MikikoBazeley ~ This has been deactivated
   * Medium: https://mmbazel.medium.com/
+  * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated
 
 ### ✨ Like what I'm brewing? ✨
   * ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
