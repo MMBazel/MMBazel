@@ -6,7 +6,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, my name is Miki & I'm an ML Engineer! 👩🏻‍💻 
-"Don't let them tame you" - Isadora Duncan
+> _"Don't let them tame you" - Isadora Duncan_
+
+
 
 ### 🔭 I’m currently working on ☝🏻 
   * Building tools, infrastructure, & applications for the Machine Learning Engineering team at Mailchimp 🐒 that: 
