@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### 📫 How to reach me 💬 
-  * ~~LinkedIn: https://www.linkedin.com/in/mikikobazeley/~~ This is hibernated at various intervals
+  * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
   * Medium: https://mmbazel.medium.com/
   * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated
 
