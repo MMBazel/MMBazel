@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi there, my name is Miki & I'm a Platform/ML/Data/DevOps/OpsOps Engineer! 👩🏻‍💻 
+# Hi there, my name is Miki & I'm a Platform/ ML/ Data/ DevOps/ OpsOps Engineer! 👩🏻‍💻 
 > _"Don't let them tame you" - Isadora Duncan_
 
 
