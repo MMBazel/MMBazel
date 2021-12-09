@@ -5,16 +5,16 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi there, my name is Miki & I'm an ML Engineer! 👩🏻‍💻 
+# Hi there, my name is Miki & I'm a Platform/ML/Data/DevOps/OpsOps Engineer! 👩🏻‍💻 
 > _"Don't let them tame you" - Isadora Duncan_
 
 
 
 ### 🔭 I’m currently working on ☝🏻 
-  * Building tools, infrastructure, & applications for the Machine Learning Engineering team at Mailchimp 🐒 that: 
+  * Building tools, infrastructure, & applications for the Machine Learning Platform team at Mailchimp 🐒 that: 
      * 🙉    enable our data scientists to develop cool features
      * 🙈    empower Mailchimp customers to understand and utilize their data
-     * 🙊    support the MLE team in efficient & scalable deployment, integration, monitoring, & testing. 
+     * 🙊    support the ML Platform team in efficient & scalable deployment, integration, monitoring, & testing. 
 
 
 ### 🌱 In my free time I love 🎨
