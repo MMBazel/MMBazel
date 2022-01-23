@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   * LinkedIn: https://www.linkedin.com/in/mikikobazeley/
   * Medium: https://mmbazel.medium.com/
   * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated
+  * Twitter: https://twitter.com/BazeleyMikiko This has been re-activated but I'm still not spending much time on there. 🤷🏻‍♀️
 
 ### ✨ Like what I'm brewing? ✨
   * ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
