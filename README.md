@@ -60,11 +60,11 @@ _AMA-Speaker Panels-Workshops-Highlights_
 * [Ken's Nearest Neighbors Podcast: Why She Switched from Data Scientist to Machine Learning Engineer (Mikiko Bazeley) - KNN Ep. 76](https://youtu.be/Ii2Qo5pwWho)
 * [Career Karma: AMA with Mikiko Bazeley, Data Scientist](https://us02web.zoom.us/rec/play/h6O82M3oGC76wXb_5rbLPlK9KRozu4q41IaN2Co8vPNWSZ68kf5OaBt1Z278giYL-WDU8bluwhU4G3Q.F1dc8TPsZwzHunwu?continueMode=true&_x_zm_rtaid=PUnDwxtRTkeLEUWvxgzD3A.1633544003734.6775c434a652cdc6fddbaed8f6270286&_x_zm_rhtaid=486)
 * [Lesbians Who Tech: (Not) IRL Summit - Session: Visualizing History with WEB DuBois' Paris Exposition](https://events.bizzabo.com/225938/agenda/session/271268)
-* [General Assembly Career Panel: Women in Data Science](https://www.linkedin.com/embed/feed/update/urn:li:share:6655883217712877568)
+* [General Assembly Career Panel: Women in Data Science](https://youtu.be/EzgggM11V1w)
 * [Springboard Alumni Spotlight](https://www.linkedin.com/embed/feed/update/urn:li:share:6623287857228460032) & [Write-up](https://www.springboard.com/blog/data-science/from-hair-salon-receptionist-to-data-scientist-mentor-springboard-alum-mikiko-bazeley/)
 * [Artist of Data Science Interview with Harpreet: You ARE Going to Struggle But It Will Make You Better | Mikiko Bazeley](https://theartistsofdatascience.fireside.fm/mikiko-bazeley)
 * [So You Want to be a Data Scientist? Episode 18 - An unconventional path to founding an AI Start-up with Mikiko Bazeley](https://www.soyouwanttobeadatascientist.com/post/episode-18-an-unconventional-path-to-founding-an-ai-start-up-with-mikiko-bazeley)
-* [Virtual Office Hours: AMA with Joel]()
+* [Virtual Office Hours: AMA with Joel](https://youtu.be/8SQlSOWcL0w)
 
 _Other Cool Stuff_
 * [AnitaB.org GHC 2020 Boot Camp Scholar](https://www.linkedin.com/feed/update/urn:li:activity:6676537831009210368/)
