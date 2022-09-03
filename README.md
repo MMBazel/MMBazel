@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 ![alt text](https://github.com/MMBazel/MMBazel/blob/master/Youtube%20Thumbnail%20(6).png) 
 
-### My website where you can: 
+### My website where you can:
+[🔗 Hit here! 🔗](https://mikikobazeley.notion.site/The-MLOps-Engineer-w-Mikiko-Bazeley-af09f5896d804ad8b904590796ffddb7) 
 * Find links to all past livestreams & show notes
 * Get access to the work & sprint plans
 * Check out other talks I've done
