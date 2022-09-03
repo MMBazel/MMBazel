@@ -4,6 +4,7 @@
 Here are some ideas to get you started:
 
 -->
+![alt text](https://github.com/MMBazel/MMBazel/blob/master/Screen%20Shot%202022-09-03%20at%203.10.23%20PM.png)
 
 # Hi there, my name is Miki & I'm a Platform/ ML/ Data/ DevOps/ OpsOps Engineer! 👩🏻‍💻 
 > _"Don't let them tame you" - Isadora Duncan_
