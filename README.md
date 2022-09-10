@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### My livestream schedule
 * Don't want to forget when livestreams are happening? Add the Google Calendar 📅 [🔗 here 🔗](https://calendar.google.com/calendar/u/0?cid=MG9sYWJzMXFxczRncDUxYjZhcnJyNWNrMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)  to stay in the loop!
 
-![alt text](https://github.com/MMBazel/MMBazel/blob/master/Youtube%20Thumbnail%20(6).png) 
+![alt text](https://github.com/MMBazel/MMBazel/blob/master/New%20Schedule.png) 
 
 ### My website where you can:
 [🔗 Hit here! 🔗](https://mikikobazeley.notion.site/The-MLOps-Engineer-w-Mikiko-Bazeley-af09f5896d804ad8b904590796ffddb7) 
