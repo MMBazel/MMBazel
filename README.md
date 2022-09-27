@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💻 What I Do to Pay the Rents 💰 
 
-* Sr MLOps Engineer @ Mailchimp ➡️ Building tools, infrastructure, & applications for the Machine Learning Platform team at Mailchimp 🐒
+* Sr MLOps Engineer working on developing, advocating and evangelizing the open-source MLOps ecosystem
 * Content Creation (see bottom links for deets)
   
 
