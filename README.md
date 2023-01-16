@@ -27,20 +27,12 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me 💬 
-
-### My livestream schedule
-* Don't want to forget when livestreams are happening? Add the Google Calendar 📅 [🔗 here 🔗](https://calendar.google.com/calendar/u/0?cid=MG9sYWJzMXFxczRncDUxYjZhcnJyNWNrMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)  to stay in the loop!
-
-
-
-### My website where you can:
-[🔗 Hit here! 🔗](https://mikikobazeley.notion.site/The-MLOps-Engineer-w-Mikiko-Bazeley-af09f5896d804ad8b904590796ffddb7) 
-* Find links to all past livestreams & show notes
-* Get access to the work & sprint plans
-* Check out other talks I've done
+### All socials
+* 👉🏻 Go here for everything: https://bio.link/mikikobazeley
 
 
 ### For blog posts, technical walkthroughs, & show notes, find me here:
+* 🕸 Hashnode: https://mikiko.hashnode.dev/
 * 📝 Medium: https://bit.ly/3wKUwym
 * 📬 Substack: https://mikikobazeley.substack.com/
 
@@ -50,10 +42,6 @@ Here are some ideas to get you started:
 * 🐥 Twitter: https://twitter.com/BazeleyMikiko
     * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated, use the one above
 * 👾 Twitch: https://bit.ly/3Akmwfe
-
-  
-  
-
  
 
 ## ✨ Like what I'm brewing? ✨
