@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 ![alt text](https://github.com/MMBazel/MMBazel/blob/master/Screen%20Shot%202022-09-03%20at%203.10.23%20PM.png)
 
-# Hi there, my name is Miki & I'm a Platform/ ML/ Data/ DevOps/ OpsOps Engineer! 👩🏻‍💻 
+# Hi there, my name is Miki & I'm a full-stack AI Engineer! 👩🏻‍💻 
 > _"Don't let them tame you" - Isadora Duncan_
 
 
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   
 
 ## 🤔  What's On the Brain 🧠 
-
 * ✅ Developing scalable, resilient, & reliable production ML systems for companies like Mailchimp;
 * ✅ Creating books, videos, courses, & workshops to teach MLOps best practices & architectures;
 * ✅ Contributing thought leadership around applied ML through organizations like Nvidia;
@@ -29,20 +28,17 @@ Here are some ideas to get you started:
 ## 📫 How to reach me 💬 
 ### All socials
 * 👉🏻 Go here for everything: https://bio.link/mikikobazeley
+* 🐥 Twitter: https://twitter.com/BazeleyMikiko
+    * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated, use the one above
 
 
-### For blog posts, technical walkthroughs, & show notes, find me here:
-* 🕸 Hashnode: https://mikiko.hashnode.dev/
+### For tutorials & blog posts:
 * 📝 Medium: https://bit.ly/3wKUwym
 * 📬 Substack: https://mikikobazeley.substack.com/
 
 
-### For videos & livestreams hit me up here:
+### For videos:
 * 📹 Youtube: https://bit.ly/3MBR8N3
-* 🐥 Twitter: https://twitter.com/BazeleyMikiko
-    * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated, use the one above
-* 👾 Twitch: https://bit.ly/3Akmwfe
- 
 
 ## ✨ Like what I'm brewing? ✨
   * ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
